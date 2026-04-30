@@ -6,19 +6,19 @@
   <a href="https://github.com/tusharv2005/" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="32" />
   </a>
-  <a href="https://twitter.com/steipete" target="_blank">
+  <a href="https://x.com/tusharv369" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/steipete" target="_blank">
+  <a href="https://www.linkedin.com/in/tusharvarshney03/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
-  <a href="https://mastodon.social/@steipete" target="_blank">
+  <a href="//" target="_blank">
     <img src="https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon" height="32" />
   </a>
-  <a href="https://bsky.app/profile/steipete.me" target="_blank">
+  <a href="https://bsky.app/profile/tusharvarshney.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-Bluesky-00A8E8?style=flat&logo=bluesky&logoColor=white" alt="Bluesky" height="32" />
   </a>
-  <a href="https://steipete.me" target="_blank">
+  <a href="//" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=hugo&logoColor=white" alt="Blog" height="32" />
   </a>
 </p>
