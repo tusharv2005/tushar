@@ -27,7 +27,7 @@
   <img src="wanted-poster.png" alt="Tushar Varshney" width="300" />
 </p>
 
-<p align="center">
+<p align="left">
   📍 <strong>Vienna ↔ London</strong> | 🤖 <strong>Polyagentmorous builder</strong> | 🚀 <strong>Ex-PSPDFKit Founder</strong>
 </p>
 
