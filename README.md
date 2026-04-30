@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2gzdnBrbzU4Y25pMWRyejQzZnZxb2gxcHh3MG93OXlpdHdqNWE2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdAVB452ZFh6pXxi4e/giphy.gif" width="200" alt="Coding GIF" style="margin-top: 60px;" />
 
 <p align="center">
-  <a href="https://github.com/steipete" target="_blank">
+  <a href="https://github.com/tusharv2005/" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="32" />
   </a>
   <a href="https://twitter.com/steipete" target="_blank">
