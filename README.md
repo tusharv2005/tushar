@@ -1,5 +1,5 @@
 # Hi, I'm Tushar 👋
-<!-- 
+
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2gzdnBrbzU4Y25pMWRyejQzZnZxb2gxcHh3MG93OXlpdHdqNWE2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdAVB452ZFh6pXxi4e/giphy.gif" width="200" alt="Coding GIF" style="margin-top: 60px;" />
 
 <p align="center">
@@ -25,47 +25,8 @@
 
 <p align="center">
   <img src="wanted-poster.png" alt="Tushar Varshney" width="300" />
-</p> -->
-<!-- LEFT: SOCIALS -->
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat" height="28"/>
-  </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=flat" height="28"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=flat" height="28"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Mastodon-black?logo=mastodon&logoColor=white&style=flat" height="28"/>
-  </a>
 </p>
 
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bluesky-black?logo=bluesky&logoColor=white&style=flat" height="28"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-black?logo=hugo&logoColor=white&style=flat" height="28"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=flat" height="28"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-black?logo=gmail&logoColor=white&style=flat" height="28"/>
-  </a>
-</p>
-
-<!-- CENTER: POSTER -->
-<p align="center">
-  <img src="wanted-poster.png" width="300"/>
-</p>
-
-<!-- RIGHT: GIF -->
-<p align="right">
-  <img src="your-gif.gif" width="250"/>
-</p>
 <p align="left">
   📍 <strong>Vienna ↔ London</strong> | 🤖 <strong>Polyagentmorous builder</strong> | 🚀 <strong>Ex-PSPDFKit Founder</strong>
 </p>
