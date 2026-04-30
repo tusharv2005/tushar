@@ -119,7 +119,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+![GitHub Contribution Graph](https://ghchart.rshah.org/tusharv2005)
 
 ## What I'm Doing
 
