@@ -1,54 +1,39 @@
 # Hi, I'm Tushar 👋
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <h3>Connect With Me</h3>
-        <p>
-          <a href="https://twitter.com/steipete" target="_blank">
-            <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-          </a>
-        </p>
-        <p>
-          <a href="https://www.linkedin.com/in/steipete" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-        </p>
-        <p>
-          <a href="https://github.com/steipete" target="_blank">
-            <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </p>
-        <p>
-          <a href="https://steipete.me" target="_blank">
-            <img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
-          </a>
-        </p>
-        <p>
-          <a href="https://mastodon.social/@steipete" target="_blank">
-            <img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-          </a>
-        </p>
-        <p>
-          <a href="https://bsky.app/profile/steipete.me" target="_blank">
-            <img src="https://img.shields.io/badge/-Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-          </a>
-        </p>
-      </td>
-      <td align="center" width="300">
-        <img src="wanted-poster.png" alt="Tushar Varshney" width="280" />
-      </td>
-      <td align="center" width="200">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2gzdnBrbzU4Y25pMWRyejQzZnZxb2gxcHh3MG93OXlpdHdqNWE2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdAVB452ZFh6pXxi4e/giphy.gif" width="180" alt="Coding GIF" />
-      </td>
-    </tr>
-  </table>
+  
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2gzdnBrbzU4Y25pMWRyejQzZnZxb2gxcHh3MG93OXlpdHdqNWE2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdAVB452ZFh6pXxi4e/giphy.gif" width="200" alt="Coding GIF" style="margin-top: 60px;" />
+
+<a href="https://twitter.com/steipete" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/steipete" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/steipete" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://steipete.me" target="_blank">
+  <img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
+</a>
+<a href="https://mastodon.social/@steipete" target="_blank">
+  <img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+</a>
+<a href="https://bsky.app/profile/steipete.me" target="_blank">
+  <img src="https://img.shields.io/badge/-Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+</a>
+
+<br/><br/>
+
+<img src="wanted-poster.png" alt="Tushar Varshney" width="300" />
+
+<br/>
+
+📍 **Vienna ↔ London** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-PSPDFKit Founder**
+
 </div>
 
-<p align="center">
-  📍 <strong>Vienna ↔ London</strong> | 🤖 <strong>Polyagentmorous builder</strong> | 🚀 <strong>Ex-PSPDFKit Founder</strong>
-</p>
+<br clear="right"/>
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
