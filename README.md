@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  📍 <strong>India</strong> | 🤖 <strong>Polyagentmorous builder</strong> | 🚀 <strong>HORIZN GAMES Founder</strong>
+  📍 <strong>India</strong> | 🍇 <strong>Kōdo-Kōdo no Mi</strong> | 🎮 <strong>HORIZN GAMES Founder</strong>
 </p>
 
 <br clear="right"/>
