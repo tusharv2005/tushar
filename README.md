@@ -1,6 +1,4 @@
-# Hi, I'm Tushar 👋<p align="center">
-  <img src="/Users/tusharvarshney/Downloads/antfu.me-main/pokemon_slapq.gif" width="80px" />
-</p>
+# Hi, I'm Tushar 👋
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2gzdnBrbzU4Y25pMWRyejQzZnZxb2gxcHh3MG93OXlpdHdqNWE2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdAVB452ZFh6pXxi4e/giphy.gif" width="200" alt="Nami GIF" style="margin-top: 60px;" />
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJianN6bzV1cG4ydTYyMDN4bDZmbnh5aWNqY3l0ajcwemp0Z3Y0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Coding GIF" style="margin-top: 60px;" />
