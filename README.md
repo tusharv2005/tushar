@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  📍 <strong>Vienna ↔ London</strong> | 🤖 <strong>Polyagentmorous builder</strong> | 🚀 <strong>Ex-PSPDFKit Founder</strong>
+  📍 <strong>India</strong> | 🤖 <strong>Polyagentmorous builder</strong> | 🚀 <strong>HORIZN GAMES Founder</strong>
 </p>
 
 <br clear="right"/>
