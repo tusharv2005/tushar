@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/tusharvarshney03/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
-  <a href="//" target="_blank">
-    <img src="https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon" height="32" />
+  <a href="https://www.snapchat.com/add/tusharv0003" target="_blank">
+    <img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black" alt="Snapchat" height="32" />
   </a>
   <a href="https://bsky.app/profile/tusharvarshney.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-Bluesky-00A8E8?style=flat&logo=bluesky&logoColor=white" alt="Bluesky" height="32" />
