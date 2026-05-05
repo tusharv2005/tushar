@@ -44,8 +44,10 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-
-> Turning ideas into working systems — testing what holds up in reality, not theory. Exploring how modern web collapses the distance between thought and execution.
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+> Turning ideas into working systems - testing what holds up in reality, not theory. Exploring how modern web collapses the distance between thought and execution.
 <!-- 
 🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
 
