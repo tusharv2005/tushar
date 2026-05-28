@@ -145,11 +145,11 @@ BLOG-POST-LIST:END -->
 <a href="https://ko-fi.com/tusharvarshney" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 [![Bandcamp](https://img.shields.io/badge/-Bandcamp-1DA1F2?style=flat-square&logo=bandcamp&logoColor=white)](https://solaceworld.bandcamp.com/)
-[![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
+<!-- [![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
 [![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/tusharvarshney.bsky.social)
 [![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me)
 [![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharvarshney03)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tusharv2005)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tusharv2005) -->
 
 ---
 <!-- 
