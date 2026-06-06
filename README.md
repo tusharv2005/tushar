@@ -126,26 +126,25 @@
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
+- **Building mobile games** - Founder of [Horizn Games](https://play.google.com/store/apps/details?id=com.horizngames.blockpuzzlemaster), creating engaging puzzle games for 20+ countries 🌍
+- **Growing content empire** - Built faceless pages to 350K+ followers and 70M+ views across social platforms
+- **Writing about entrepreneurship** - Sharing learnings on [tusharvarshney.com](https://tusharvarshney.com)
+- **Rapid prototyping** - Full products in weeks, not months — [PetalUI](https://react-wheel-picker.tusharvarshney.com), [Zode.ai](https://github.com/tusharv2005/zode.ai), [NotchOS](https://github.com/tusharv2005/NotchOS)
+
 <!-- 
 ## Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
-- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
-- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
-BLOG-POST-LIST:END -->
+- [Why I Started a Game Studio: Horizn Games](https://tusharvarshney.com/blog/why-i-started-a-game-studio-horizn-games)
+- [Growing Faceless Social Media Pages to 350K+ Followers](https://tusharvarshney.com/blog/growing-faceless-social-media-pages-to-350k-followers)
+- [2.96M Plays: Anatomy of a Viral Snapchat Lens](https://tusharvarshney.com/blog/2-96m-plays-anatomy-of-viral-snapchat-lens)
+- [Side Projects That Pay: Which Ones Actually Make Money?](https://tusharvarshney.com/blog/side-projects-that-pay-which-ones-actually-make-money)
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 <a href="https://ko-fi.com/tusharvarshney" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+<!-- 
 [![Bandcamp](https://img.shields.io/badge/-Bandcamp-1DA1F2?style=flat-square&logo=bandcamp&logoColor=white)](https://solaceworld.bandcamp.com/)
-<!-- [![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
+[![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
 [![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/tusharvarshney.bsky.social)
 [![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me)
 [![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharvarshney03)
