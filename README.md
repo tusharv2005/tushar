@@ -19,7 +19,7 @@
   <a href="https://bsky.app/profile/tusharvarshney.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-Bluesky-00A8E8?style=flat&logo=bluesky&logoColor=white" alt="Bluesky" height="32" />
   </a>
-  <a href="//" target="_blank">
+  <a href="https://tusharvarshney.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=hugo&logoColor=white" alt="Blog" height="32" />
   </a>
 </p>
