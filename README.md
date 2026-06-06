@@ -134,10 +134,10 @@
 <!-- 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started a Game Studio: Horizn Games](https://tusharvarshney.com/blog/why-i-started-a-game-studio-horizn-games)
-- [Growing Faceless Social Media Pages to 350K+ Followers](https://tusharvarshney.com/blog/growing-faceless-social-media-pages-to-350k-followers)
-- [2.96M Plays: Anatomy of a Viral Snapchat Lens](https://tusharvarshney.com/blog/2-96m-plays-anatomy-of-viral-snapchat-lens)
-- [Side Projects That Pay: Which Ones Actually Make Money?](https://tusharvarshney.com/blog/side-projects-that-pay-which-ones-actually-make-money)
+- [Why I Started a Game Studio: Horizn Games](https://tusharvarshney.vercel.app/blog/why-i-started-a-game-studio-horizn-games)
+- [Growing Faceless Social Media Pages to 350K+ Followers](https://tusharvarshney.vercel.app/blog/growing-faceless-social-media-pages-to-350k-followers)
+- [2.96M Plays: Anatomy of a Viral Snapchat Lens](https://tusharvarshney.vercel.app/blog/2-96m-plays-anatomy-of-viral-snapchat-lens)
+- [Side Projects That Pay: Which Ones Actually Make Money?](https://tusharvarshney.vercel.app/blog/side-projects-that-pay-which-ones-actually-make-money)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
