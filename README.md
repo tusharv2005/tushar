@@ -129,7 +129,7 @@
 - **Building mobile games** - Founder of [Horizn Games](https://play.google.com/store/apps/details?id=com.horizngames.blockpuzzlemaster), creating engaging puzzle games for 20+ countries 🌍
 - **Growing content empire** - Built faceless pages to 350K+ followers and 70M+ views across social platforms
 - **Writing about entrepreneurship** - Sharing learnings on [tusharvarshney.com](https://tusharvarshney.com)
-- **Rapid prototyping** - Full products in weeks, not months — [PetalUI](https://react-wheel-picker.tusharvarshney.com), [Zode.ai](https://github.com/tusharv2005/zode.ai), [NotchOS](https://github.com/tusharv2005/NotchOS)
+- **Rapid prototyping** - Full products in weeks, not months — [PetalUI](https://react-wheel-picker.tusharvarshney.com), [Zode.ai](https://github.com/tusharv2005/zode.ai), [NotchOS](https://github.com/tusharv2005/NotchOS), [Nibbo](https://github.com/tusharv2005/Nibbo)
 
 <!-- 
 ## Latest Blog Posts
